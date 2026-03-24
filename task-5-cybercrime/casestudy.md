@@ -1,4 +1,4 @@
-###Case Study: Identity Theft
+### Case Study: Identity Theft
 
 Identity theft is a cybercrime in which an individual’s personal information is stolen and used without their consent, often for financial gain. This information may include names, phone numbers, bank details, or login credentials.
 
