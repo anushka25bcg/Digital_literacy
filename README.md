@@ -1,2 +1,2 @@
-# Digital_literacy
+# Digital literacy
 A VITyarthi project
